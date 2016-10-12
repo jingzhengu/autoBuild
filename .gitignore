@@ -1,0 +1,8 @@
+.DS_Store
+*/.DS_Store
+.*.swp
+.clang_complete
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+/Pods
+*.xcworkspace
